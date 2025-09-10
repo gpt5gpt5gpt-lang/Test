@@ -1,10 +1,10 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8">
-  Мой первый сайт
-</head>
-<body>
-  <h1>Добро пожаловать на мой сайт!</h1>
-  <p>Это первая страница.</p>
-  <a href="page2.html">Перейти на вторую страницу</a>
+<html lang="en">
+  <head>
+    <title>auxilus.github.io</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  </head>
+<body style="padding: 15px">
+  Contact me <a href="https://twitter.com/Auxilus_">@Auxilus_</a>
+  <a href="/gpg.txt">key</a>
+</body>
+</html>
