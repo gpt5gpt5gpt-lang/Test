@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
-  <title>Мой первый сайт</title>
+  Мой первый сайт
 </head>
 <body>
   <h1>Добро пожаловать на мой сайт!</h1>
